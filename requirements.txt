@@ -22,3 +22,4 @@ youtube-search-python==1.4.6
 youtube-dl
 secureme
 humanize
+dnspython==2.3.0
